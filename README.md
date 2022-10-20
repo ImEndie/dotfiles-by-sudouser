@@ -22,11 +22,11 @@
 
 
 ### Use
-We download Config files from GitHub:
+Download Config files from GitHub:
 ```
 git clone https://github.com/abduazimov-git/dotfiles.git
 ```
-We enter the folder we downloaded:
+Enter the folder we downloaded:
 ```
 cd dotfiles/
 ```
