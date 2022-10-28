@@ -37,9 +37,10 @@ Execute Setup file
 ```
 chmod +x setup.sh
 ```
+Run Setup script
+```
 ./setup.sh
 ```
-
 Munually copy Config files to the desired location:
 ```
 cp -r config/i3/ $HOME/.config/
