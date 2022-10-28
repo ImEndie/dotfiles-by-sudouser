@@ -24,7 +24,7 @@
 ### Use
 Download Config files from GitHub:
 ```
-git clone https://github.com/abduazimov-git/dotfiles.git
+git clone https://github.com/abdurakhman-uz/dotfiles.git
 ```
 Enter the folder we downloaded:
 ```
