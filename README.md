@@ -33,6 +33,8 @@ Enter the folder we downloaded:
 ```
 cd dotfiles/
 ```
+Execute Setup file
+```
 chmod +x setup.sh
 ```
 ./setup.sh
